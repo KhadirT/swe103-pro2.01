@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-    std::cout <<"Hello SWE 103... \n";
+    std::cout <<"Hello SWE 103... değişiklik \n";
 }
